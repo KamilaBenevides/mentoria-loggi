@@ -8,3 +8,12 @@ onde empreendedoras disponibilizarão seus serviços/produtos. <br>
 <b>Descrição:</b> As empreendedoras farão seu cadastro no site onde irão criar 
 ‘postagens’ com imagens, descrição, preço, local que atende/entrega, contatos 
 e sua categorização.
+
+ As categorias são:
+<ul><li>Produtos</li>
+ <ol>Alimentos</ol>
+ <ol>Artesanato</ol>
+ <ol>Vestuário</ol>
+  <li>Serviços</li>
+ <ol>Beleza</ol>
+ <ol>Residencial<ol>
