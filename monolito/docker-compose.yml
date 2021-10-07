@@ -1,0 +1,18 @@
+version: "3"
+services:
+  backend:
+    image: node:latest
+    ports:
+      - 8080:8080
+    working_dir: /home/node
+    volumes:
+      - ./backend:/home/node
+    entrypoint: ["node","/home/node/src/index.js"]
+  frontend:
+    image: node:latest
+    ports:
+      - 3000:8080
+    working_dir: /home/node
+    volumes:
+      - ./frontend:/home/node
+    entrypoint: ["npm","run", "serve"]
