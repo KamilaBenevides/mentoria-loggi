@@ -11,12 +11,12 @@ e sua categorização.
 
  As categorias são:
 1. Produtos
-  - Alimentos
-  - Artesanato
-  - Vestuário
+      - Alimentos
+      - Artesanato
+      - Vestuário
 2. Serviços
-  - Beleza
-  - Residencial
+      - Beleza
+      - Residencial
 3. Área Pet
-  - Produtos
-  - Serviços
+      - Produtos
+      - Serviços
