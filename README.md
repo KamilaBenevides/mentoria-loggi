@@ -1,5 +1,5 @@
-                                                                               PROJETO MENTORIA
-                                                                              ===================
+                                                                     PROJETO MENTORIA
+                                                                   ===================
                                                 ### Kamila Benevides | Luísa Cristina | Melissa Cardoso | Suyanne Souza
  
 **Apresentação:** O Projeto consiste na criação de um site no estilo “*catálogo*” 
