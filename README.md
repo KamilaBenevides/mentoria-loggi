@@ -12,10 +12,12 @@ e sua categorização.
  As categorias são:
 1. Produtos
       - Alimentos
+      
                   1. Doces
                   2. Salgados
       - Artesanato
       - Vestuário
+      
                   1. Feminino
                   2. Masculino
                   3. Infantil
