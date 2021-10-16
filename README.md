@@ -12,8 +12,8 @@ e sua categorização.
  As categorias são:
 1. Produtos
       - Alimentos
-                 - Doces
-                 - Salgados
+                 * Doces
+                 * Salgados
       - Artesanato
       - Vestuário
                 - Feminino
