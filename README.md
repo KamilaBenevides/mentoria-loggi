@@ -13,15 +13,15 @@ e sua categorização.
 1. Produtos
       - Alimentos
       
-                  1. Doces
-                  2. Salgados
+                  - Doces
+                  - Salgados
       - Artesanato
       - Vestuário
       
-                  1. Feminino
-                  2. Masculino
-                  3. Infantil
-                  4. Bebê
+                  - Feminino
+                  - Masculino
+                  - Infantil
+                  - Bebê
 2. Serviços
       - Beleza
       - Residencial
