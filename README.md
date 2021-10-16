@@ -12,14 +12,14 @@ e sua categorização.
  As categorias são:
 1. Produtos
       - Alimentos
-                 * Doces
-                 * Salgados
+                  1. Doces
+                  2. Salgados
       - Artesanato
       - Vestuário
-                - Feminino
-                - Masculino
-                - Infantil
-                - Bebê
+                  1. Feminino
+                  2. Masculino
+                  3. Infantil
+                  4. Bebê
 2. Serviços
       - Beleza
       - Residencial
