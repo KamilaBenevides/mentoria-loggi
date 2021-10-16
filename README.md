@@ -20,3 +20,7 @@ e sua categorização.
 3. Área Pet
       - Produtos
       - Serviços
+
+A página terá uma **barra de pesquisa** onde poderão ser colocadas palavras-chaves, categorias, sub-categorias ou localização para filtrar os resultados.
+
+**Tecnologias à serem usadas:** Javascript, Node com Express no back e Vue no front.
