@@ -16,10 +16,10 @@ e sua categorização.
               + Salgados
       - Artesanato
       - Vestuário
-             + Feminino
-             + Masculino
-             + Infantil
-             + Bebê
+             - Feminino
+             - Masculino
+             - Infantil
+             - Bebê
 2. Serviços
       - Beleza
       - Residencial
