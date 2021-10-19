@@ -9,7 +9,7 @@ services:
       - ./backend:/home/node
     entrypoint: ["node","/home/node/src/index.js"]
   frontend:
-    image: node:latest
+    build: ./frontend/
     ports:
       - 3000:8080
     working_dir: /home/node
